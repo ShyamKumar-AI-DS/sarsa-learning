@@ -66,10 +66,9 @@ def sarsa(env,
 
 # OUTPUT:
 ![S11](https://github.com/ShyamKumar-AI-DS/sarsa-learning/assets/93427182/68556009-d21d-456f-ae29-19618f815f6e)
+![S22](https://github.com/ShyamKumar-AI-DS/sarsa-learning/assets/93427182/1982ddb3-7a97-46e9-a8e7-7b312ace81c2)
+![S33](https://github.com/ShyamKumar-AI-DS/sarsa-learning/assets/93427182/95d6bce6-d982-4387-9765-821eca1b11b7)
 
-![S2](https://github.com/ShyamKumar-AI-DS/sarsa-learning/assets/93427182/0899a610-4af5-42bd-b765-aa6a30a07c3b)
-
-![S3](https://github.com/ShyamKumar-AI-DS/sarsa-learning/assets/93427182/0fa93c8a-08d0-4fca-8484-c07b6375a816)
 
 
 ## RESULT:
